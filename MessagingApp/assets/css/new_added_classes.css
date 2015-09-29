@@ -1,0 +1,11 @@
+.product-listing-image{
+    background-image: url(../img/prod-list-thumb/prod-list-sprite.png);
+    background-repeat: no-repeat;
+    display: block;
+    width: 80px;
+    height: 80px;
+}
+
+.product-listing-region .list-item:hover,.service-list-grid input[type=checkbox]:checked+label,.service-list-grid input[type=radio]:checked+label {
+    box-shadow: 0 0 4px #74a5d0
+}
